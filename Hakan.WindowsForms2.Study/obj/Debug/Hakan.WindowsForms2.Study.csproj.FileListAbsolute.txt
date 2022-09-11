@@ -1,0 +1,11 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.WindowsForms2.Study\bin\Debug\Hakan.WindowsForms2.Study.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.WindowsForms2.Study\bin\Debug\Hakan.WindowsForms2.Study.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.WindowsForms2.Study\bin\Debug\Hakan.WindowsForms2.Study.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.WindowsForms2.Study\obj\Debug\Hakan.WindowsForms2.Study.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.WindowsForms2.Study\obj\Debug\Hakan.WindowsForms2.Study.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.WindowsForms2.Study\obj\Debug\Hakan.WindowsForms2.Study.Form1.resources
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.WindowsForms2.Study\obj\Debug\Hakan.WindowsForms2.Study.Properties.Resources.resources
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.WindowsForms2.Study\obj\Debug\Hakan.WindowsForms2.Study.csproj.GenerateResource.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.WindowsForms2.Study\obj\Debug\Hakan.WindowsForms2.Study.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.WindowsForms2.Study\obj\Debug\Hakan.WindowsForms2.Study.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.WindowsForms2.Study\obj\Debug\Hakan.WindowsForms2.Study.pdb

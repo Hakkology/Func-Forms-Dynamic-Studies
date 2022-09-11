@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\ActionFunc\bin\Debug\ActionFunc.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\ActionFunc\bin\Debug\ActionFunc.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\ActionFunc\bin\Debug\ActionFunc.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\ActionFunc\obj\Debug\ActionFunc.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\ActionFunc\obj\Debug\ActionFunc.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\ActionFunc\obj\Debug\ActionFunc.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\ActionFunc\obj\Debug\ActionFunc.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\ActionFunc\obj\Debug\ActionFunc.pdb

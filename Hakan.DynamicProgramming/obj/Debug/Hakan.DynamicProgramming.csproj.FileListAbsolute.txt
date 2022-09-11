@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.DynamicProgramming\bin\Debug\Hakan.DynamicProgramming.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.DynamicProgramming\bin\Debug\Hakan.DynamicProgramming.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.DynamicProgramming\bin\Debug\Hakan.DynamicProgramming.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.DynamicProgramming\obj\Debug\Hakan.DynamicProgramming.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.DynamicProgramming\obj\Debug\Hakan.DynamicProgramming.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.DynamicProgramming\obj\Debug\Hakan.DynamicProgramming.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.DynamicProgramming\obj\Debug\Hakan.DynamicProgramming.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Forms\Hakan\Hakan.DynamicProgramming\obj\Debug\Hakan.DynamicProgramming.pdb
